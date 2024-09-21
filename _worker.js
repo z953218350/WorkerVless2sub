@@ -7,6 +7,8 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'cfip.cfcdn.vip:8443#优选官方线路',
+	'www.blshe.net:8443#优选官方线路',
 ];
 
 // 设置优选地址api接口
